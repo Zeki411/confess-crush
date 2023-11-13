@@ -1,12 +1,12 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Anh xin lỗi em",
     introTitle: 'Hoàng Thị Vân Anh ơi 🥰',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Anh xin lỗi bé yêu ơi. Mong bé tha lỗi cho anh ạ ',
-    title: '🥺',
+    btnIntro: 'Bé iêu ấn vào đây đi ạ',
+    title: 'Anh xin lỗi bé yêu ơi. Mong bé tha lỗi cho anh ạ  🥺',
     desc: 'Anh nhớ em bé lắm ạ, bé iêu thấy đáng yêu thì mong bé tha lỗi cho anh nha',
     btnYes: 'Tạm chấp nhận -_- Còn lần sau thì liệu hồn',
     btnNo: 'Không nha :3',
